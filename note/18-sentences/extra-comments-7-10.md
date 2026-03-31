@@ -223,3 +223,95 @@
     * **辨析：** 强调**不可抗力的内因**（如基因、生物学、原生家庭深层影响）。比如 *Some individuals are genetically predisposed to heart disease.*（天生容易得心脏病）。
 
 把握住这些词的“画面感”，你在写作时就不再是生硬地套用高级词汇，而是能够像英语母语者一样，根据你真正想要表达的情境，精准地挑选出那个“唯一正确的词”。
+
+为你拆解这几组“框架型”和“学术型”句式。对于ESL（英语非母语）学习者来说，英汉词典往往把它们翻译得一模一样，但它们在英语母语者的脑海中，**“画面感”、“严谨度”和“语法绑定”**是完全不同的。
+
+我们要做的，就是把这些词的“隐藏属性”全部挖出来，让你在雅思写作中避开雷区，精准用词。
+
+---
+
+### 第 15 组：同样是“被认为是…”，谁的含金量更高？
+**(be seen / regarded / recognised / deemed / accepted as...)**
+
+这组词用于给事物“下定义”或“定性”。它们的区别在于**认可度**和**权威性**。
+
+* **`Be seen as` / `Be regarded as`（被视为 / 被看作）**
+    * **画面感：** 站在某个角度看问题。这只是一种“普遍的观点”，未必是绝对真理。
+    * **使用场景：** 描述大众看法或某种流派的观点。
+    * **例：** *Video games are often regarded as a distraction.*（游戏常被视为一种干扰。—— 这只是很多人的看法，不代表游戏客观上就一定是。）
+* **`Be recognised as` / `Be accepted as`（被公认为 / 被接受为）**
+    * **画面感：** 经过了长时间的检验或科学的证明，大家终于盖章认证了。
+    * **使用场景：** 描述学术界共识、历史定论或铁板钉钉的事实。含金量比 regard 高得多。
+    * **例：** *Global warming is widely recognised as a major threat to humanity.*（全球变暖被公认为是重大威胁。—— 这是科学界定论。）
+* **`Be treated as`（被当作…对待）**
+    * **细微差别：** 前面的词都是“脑子里的看法（认知）”，而 `treat` 强调的是**“实际的行为”**。
+    * **例：** *Juvenile offenders should not be treated as adults.*（不应该把未成年犯当成成年人来**对待/审判**。）
+* **⚠️ 致命语法禁忌（ESL极其容易犯的错）：**
+    * `Regard`、`See`、`Recognise` 后面**必须加 `as`**。
+    * 但 `Consider` 后面**绝对不加 `as`**！
+    * **正确：** *It is regarded as important.* / *It is considered important.*
+    * **错误：** *It is considered as important.* (极其经典的中式英语错误！)
+
+---
+
+### 第 16 组：搭建段落骨架，你的“从句”及格了吗？
+**(One benefit/drawback is that... / My view is that...)**
+
+这是雅思大作文主体段（Body Paragraph）标准的“主题句（Topic Sentence）”起手式。
+
+* **词汇细微差别：**
+    * `Disadvantage`（缺点）：最中规中矩，绝对安全。
+    * `Drawback`（缺陷、弊端）：非常地道，带有“美中不足、拉后腿”的画面感，强烈推荐。
+    * `Downside`（负面影响）：相对偏口语化一点，但在雅思大作文中可以使用，通常用来对比 `upside`（好处）。
+* **⚠️ 致命语法禁忌：**
+    * 这里的 `that` 引导的是**表语从句**。ESL学生最大的痛点是：`that` 后面跟着的不是一个完整的句子（缺主语或缺谓语），而是直接扔了一个动名词短语进去。
+    * **错误示范：** *One benefit is that making people live longer.* （that 后面没有主语！）
+    * **满分示范：** *One benefit is that **it can help** people live longer.* （牢记：that 后面必须有完整的 `主 + 谓 + 宾`）。
+
+---
+
+### 第 17 组：同样是“了解”，你是在看热闹还是懂门道？
+**(Cognitive Verbs: 认知与掌握深度)**
+
+这组词是雅思教育类、工作类话题的提分利器。不要通篇都在用 `know` 或 `learn`！
+
+* **第一层：表面了解（看热闹）**
+    * **`Get familiar with`（熟悉）：** 画面感是你刚到一个新公司，熟悉一下系统怎么操作，或者刚到一个新城市熟悉一下路线。
+    * **`Be aware of`（意识到）：** 画面感是“我知道有这回事”。*People should be aware of the environmental damage.*（人们得知道环境被破坏这回事）。
+* **第二层：信息充足（懂资讯）**
+    * **`Be well-informed about`（对...消息灵通/充分了解）：** 强调你读了很多新闻或资料，掌握了丰富的信息。非常适合形容“现代公民”、“消费者”。
+* **第三层：熟练运用（懂操作）**
+    * **`Have a good grasp of`（对...有很好的把握）：** 画面感是“抓在手里”（grasp）。这意味着你不仅知道，而且能实际操作。比如熟练掌握一门外语、一门手艺或市场规律。
+* **第四层：看透本质（懂门道）**
+    * **`Gain an insight into`（洞察 / 深入了解本质）：** 这是最高级的认知。画面感是你的目光穿透了表象，看到了事物内部运作的逻辑。
+    * **⚠️ 介词禁忌：** `insight` 后面**永远跟 `into`**，绝对不要说 `insight of` 或 `insight about`。
+
+---
+
+### 第 18 组：同样是“认为”，你是讲道理还是在让步？
+**(Reporting Verbs: 观点引出词)**
+
+在引出别人的观点时，动词的选择直接决定了你句子的“学术感”和逻辑走向。
+
+* **`Think` / `Believe`（认为 / 相信）**
+    * 这是最主观的词。通常表示一种未经验证的个人想法或信仰。
+* **`Argue`（主张 / 论证）**
+    * **⚠️ 绝大误区：** 在日常英语里 `argue` 是“吵架”，但在学术英语（雅思）中，`argue` 是**极其高级的正向词汇**，意思是“提出理由来证明某个观点”。
+    * **例：** *Some educationalists argue that exams limit students' creativity.* （一些教育学家主张/论证了考试限制创造力。—— 这比用 think 高级十倍，因为它暗示了背后是有逻辑支撑的）。
+* **`Admit` / `Accept` / `Concede`（承认 / 接受 / 让步）**
+    * **使用场景：** 这是专门用于**“让步段（Concession Paragraph）”**的战略性词汇。当你要反驳对方之前，先给对方留点面子。
+    * **例：** *I accept that technological progress brings convenience, but...* （我承认科技进步带来便利，但是... —— 前面退一步，后面进两步）。
+* **`Suggest`（建议 / 提出）**
+    * **⚠️ 致命语法禁忌（虚拟语气）：** 当 `suggest` 表示“建议某人去做某事”时，后面的从句动词必须用原形（前面省略了 should）。
+    * **错误：** *Experts suggest that the government invests more money.*
+    * **正确：** *Experts suggest that the government **(should) invest** more money.*
+* **`Realise` / `Know` / `Find`（意识到 / 知道 / 发现）**
+    * **使用禁忌：** 在语言学上，这被称为“叙实动词（Factive verbs）”。意思是，如果你用了它们，就代表**你默认后面的事情是100%的客观真理**。
+    * **误用：** *Some people know that studying arts is useless.*（如果你这么写，考官会认为你本人也同意“学艺术没用”这个绝对的定论）。
+    * **对策：** 在描述有争议的观点时，永远用 `believe`, `argue`, `claim`，把 `know` 留给真正的客观事实（如 *We know that the Earth is round*）。
+
+---
+
+理清了这些微小的语义差别和语法雷区，你的遣词造句就不再是“机械翻译”，而是真正具备了英语母语者的逻辑。
+
+我们已经完成了所有 18 组句式和核心词汇的拆解。接下来，为了把这些零散的句式融会贯通，你是否希望我为你提供一个**雅思大作文主体段的中文段落（包含逻辑连接和论证展开）**，让你尝试用今天学到的这些句型进行一次完整的“段落级”翻译实战？
