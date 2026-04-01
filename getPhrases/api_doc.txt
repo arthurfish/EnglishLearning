@@ -1,0 +1,121 @@
+我已经进行了pdf的分割，分隔到了同一个文件夹里，全都是pdf文件。参考以下不同语言的范例，写一个go语言脚本，自动帮我使用vlm提取短语相关信息，存到对应的csv文件里。注意在进行视觉理解前要先把pdf变成图像序列。
+
+
+
+文件夹目录如下：
+
+ls pdf_input\
+
+╭───┬──────────────────────────┬──────┬──────────┬────────────────╮
+
+│ # │ name │ type │ size │ modified │
+
+├───┼──────────────────────────┼──────┼──────────┼────────────────┤
+
+│ 0 │ pdf_input\乐趣类短语.pdf │ file │ 1.0 MB │ 38 minutes ago │
+
+│ 1 │ pdf_input\健康类短语.pdf │ file │ 1.0 MB │ 38 minutes ago │
+
+│ 2 │ pdf_input\安全类短语.pdf │ file │ 1.0 MB │ 38 minutes ago │
+
+│ 3 │ pdf_input\技能类短语.pdf │ file │ 1.8 MB │ 38 minutes ago │
+
+│ 4 │ pdf_input\效率类短语.pdf │ file │ 1.0 MB │ 38 minutes ago │
+
+│ 5 │ pdf_input\文化类短语.pdf │ file │ 1.1 MB │ 38 minutes ago │
+
+│ 6 │ pdf_input\权利类短语.pdf │ file │ 1.0 MB │ 38 minutes ago │
+
+│ 7 │ pdf_input\环境类短语.pdf │ file │ 654.0 kB │ 38 minutes ago │
+
+│ 8 │ pdf_input\财务类短语.pdf │ file │ 1.6 MB │ 38 minutes ago │
+
+│ 9 │ pdf_input\责任类短语.pdf │ file │ 1.7 MB │ 38 minutes ago │
+
+╰───┴──────────────────────────┴──────┴──────────┴────────────────╯
+
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    # 各地域的API Key不同。获取API Key：https://help.aliyun.com/zh/model-studio/get-api-key
+    api_key=os.getenv("DASHSCOPE_API_KEY"),
+    # 各地域配置不同，请根据实际地域修改
+    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+)
+completion = client.chat.completions.create(
+    model="qwen3.5-plus", # 此处以qwen3.5-plus为例，可按需更换模型名称。模型列表：https://help.aliyun.com/zh/model-studio/models
+    messages=[
+       {"role": "user","content": [
+           {"type": "image_url","image_url": {"url": "https://help-static-aliyun-doc.aliyuncs.com/file-manage-files/zh-CN/20241022/emyrja/dog_and_girl.jpeg"},},
+           {"type": "image_url","image_url": {"url": "https://dashscope.oss-cn-beijing.aliyuncs.com/images/tiger.png"},},
+           {"type": "text", "text": "这些图描绘了什么内容？"},
+            ],
+        }
+    ],
+)
+
+print(completion.choices[0].message.content)
+---
+import OpenAI from "openai";
+
+const openai = new OpenAI(
+    {
+        // 若没有配置环境变量，请用百炼API Key将下行替换为：apiKey: "sk-xxx"
+        // 各地域的API Key不同。获取API Key：https://help.aliyun.com/zh/model-studio/get-api-key
+        apiKey: process.env.DASHSCOPE_API_KEY,
+        // 各地域配置不同，请根据实际地域修改
+        baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    }
+);
+
+async function main() {
+    const response = await openai.chat.completions.create({
+        model: "qwen3.5-plus",  // 此处以qwen3.5-plus为例，可按需更换模型名称。模型列表：https://help.aliyun.com/zh/model-studio/models
+        messages: [
+          {role: "user",content: [
+            {type: "image_url",image_url: {"url": "https://help-static-aliyun-doc.aliyuncs.com/file-manage-files/zh-CN/20241022/emyrja/dog_and_girl.jpeg"}},
+            {type: "image_url",image_url: {"url": "https://dashscope.oss-cn-beijing.aliyuncs.com/images/tiger.png"}},
+            {type: "text", text: "这些图描绘了什么内容？" },
+        ]}]
+    });
+    console.log(response.choices[0].message.content);
+}
+
+main()
+
+----
+# ======= 重要提示 =======
+# 各地域的API Key不同。获取API Key：https://help.aliyun.com/zh/model-studio/get-api-key
+# 各地域配置不同，请根据实际地域修改
+# === 执行时请删除该注释 ===
+
+curl -X POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions \
+-H "Authorization: Bearer $DASHSCOPE_API_KEY" \
+-H 'Content-Type: application/json' \
+-d '{
+  "model": "qwen3.5-plus",
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "https://help-static-aliyun-doc.aliyuncs.com/file-manage-files/zh-CN/20241022/emyrja/dog_and_girl.jpeg"
+          }
+        },
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "https://dashscope.oss-cn-beijing.aliyuncs.com/images/tiger.png"
+          }
+        },
+        {
+          "type": "text",
+          "text": "这些图描绘了什么内容？"
+        }
+      ]
+    }
+  ]
+}'

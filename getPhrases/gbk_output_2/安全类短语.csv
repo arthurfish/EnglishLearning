@@ -1,0 +1,34 @@
+分类,英文短语,短语中文翻译,说明,所属短语,短语关系
+技能类短语,"increase the burden on ...",加重……的负担,,null,null
+技能类短语,"increase the burden on taxpayers",加重纳税人的负担,,increase the burden on ...,扩展短语
+技能类短语,"increase the burden on the healthcare system",加重医疗体系的负担,,increase the burden on ...,扩展短语
+技能类短语,"are interconnected",（国家之间，经济之间）是相互联系的,,null,null
+技能类短语,"international trade",国际贸易,,are interconnected,具体分类
+技能类短语,"cultural exchange",文化交流,,are interconnected,具体分类
+安全类短语,"pose a threat to society",对社会构成威胁,"“pose”不只是指拍照时摆姿势，pose a threat to 也是地道英文里的常用短语",null,null
+安全类短语,"prevent crime",预防犯罪,,null,null
+安全类短语,"reduce crime rates",降低犯罪率,,prevent crime,扩展短语
+安全类短语,"commit a crime",犯罪,"地道英文里不写 do a crime × 或者 make a crime ×",prevent crime,对比短语
+安全类短语,"deter criminals",震慑罪犯,,null,null
+安全类短语,"lose their freedom",失去自由,,deter criminals,扩展短语
+安全类短语,"are separated from their family and friends",（囚犯）被和他们的亲友分开,,deter criminals,扩展短语
+安全类短语,"reform criminals",改造罪犯,,null,null
+安全类短语,"provide them with vocational training",为他们提供职业教育,"vocational 的前两个字母是 vo",reform criminals,扩展短语
+安全类短语,"help them prepare for employment",帮助他们为就业做准备,,reform criminals,扩展短语
+安全类短语,"become useful members of society",成为可以创造有用价值的社会成员,,reform criminals,扩展短语
+安全类短语,"address the root causes of crime",从根本上解决犯罪问题,"这个短语里的 address 不是名词“地址”，而是“解决、应对”的意思",null,null
+安全类短语,"create jobs",创造就业,,address the root causes of crime,扩展短语
+安全类短语,"reduce poverty",减轻贫困,,address the root causes of crime,扩展短语
+安全类短语,"reduce inequality",减少不平等现象,,address the root causes of crime,扩展短语
+安全类短语,"promote violence",（网络游戏、电影等）宣扬暴力,,null,null
+安全类短语,"are easily influenced by the media",（儿童）很容易受媒体的影响,,promote violence,扩展短语
+安全类短语,"copy what they see in the media",（儿童）模仿他们在媒体里看到的行为,,null,null
+安全类短语,"become aggressive and violent",变得具有攻击性而且很暴力,,copy what they see in the media,扩展短语
+安全类短语,"steal personal information",盗取个人信息,,null,null
+安全类短语,"online fraud",网络诈骗（名词短语）,,steal personal information,同义替换
+文化类短语,"reduce cultural diversity",（跨国公司、文化全球化）减少文化的多样性,,null,null
+文化类短语,"have similar lifestyles",（不同国家的人们）有相似的生活方式,,reduce cultural diversity,扩展短语
+文化类短语,"erode their cultural identity",（文化全球化、小语种灭绝）削弱他们对本国文化或者对本民族文化认同感,,null,null
+文化类短语,"feel lonely and isolated",（老年人，说小语种的人）感到孤独而且孤立,,null,null
+文化类短语,"have more job opportunities",（说主流语言的人）有更多的就业机会,"对比：",feel lonely and isolated,对比短语
+文化类短语,"have more entertainment choices",有更多的娱乐选择,"对比：",feel lonely and isolated,对比短语

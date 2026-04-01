@@ -1,0 +1,35 @@
+分类,英文短语,短语中文翻译,说明,所属短语,短语关系
+技能类短语,help them prepare for employment,帮助他们为就业做准备,,null,null
+技能类短语,gain practical experience,获取实践经验,,null,null
+技能类短语,Law schools often send their students to gain practical experience by giving free advice to people in need.,经济学人例句,"Law schools often send their students to gain practical experience by giving free advice to people in need.",扩展短语
+技能类短语,have more job opportunities,有更多的就业机会,,null,null
+技能类短语,help them prepare for employment,帮助他们为就业做准备,,have more job opportunities,同义替换
+技能类短语,achieve their potential,充分发挥出他们的潜力,"注意: potential 不能用复数",null,null
+技能类短语,achieve their goals,实现他们的目标,,achieve their potential,扩展短语
+效率类短语,save time and energy,节省时间和精力,,null,null
+效率类短语,make learning more efficient,让学习变得更高效,,save time and energy,扩展短语
+效率类短语,make shopping more efficient,让购物变得更高效,,save time and energy,扩展短语
+效率类短语,make communication more efficient,让沟通变得更高效,,save time and energy,扩展短语
+效率类短语,make the best use of their time,更充分地利用他们的时间,,null,null
+效率类短语,is a waste of their time,是浪费他们的时间,,make the best use of their time,对比表达
+效率类短语,boost efficiency,提高效率,,null,null
+效率类短语,boost productivity,提高生产率,"辨析: efficiency 可以泛指做任何事的效率，而 productivity 则是特指生产率",boost efficiency,扩展短语
+效率类短语,boost their performance,提升他们的（学习或者工作的）表现,,null,null
+效率类短语,A work-life balance can boost employees' performance.,工作和生活之间的平衡可以提升员工的表现,"【经济学人例句】A work-life balance (工作和生活之间的平衡) can boost employees' performance.",扩展短语
+效率类短语,make life more convenient and comfortable,让生活变得更方便舒适,,null,null
+效率类短语,technological innovations,科技创新(名词短语),,make life more convenient and comfortable,具体分类
+效率类短语,artificial intelligence,人工智能(名词短语),,make life more convenient and comfortable,具体分类
+效率类短语,self-driving cars,无人驾驶汽车(名词短语),,make life more convenient and comfortable,具体分类
+效率类短语,find information quickly and easily,快速、轻松地找到信息,,null,null
+效率类短语,provide a variety of information,提供多种多样的信息,,find information quickly and easily,扩展短语
+效率类短语,have a competitive edge,(求职者、企业、国家等)有竞争优势,,null,null
+效率类短语,native speakers not write have a competition edge,母语者不说 have a competition edge,"native speakers 不写 have a competition edge ×",have a competitive edge,错误搭配
+效率类短语,face tough competition for jobs,面对激烈的求职竞争,,have a competitive edge,扩展短语
+权利类短语,have more freedom,有更多的自由,,null,null
+权利类短语,respect their choices,尊重他们的选择,,have more freedom,扩展短语
+权利类短语,should be a personal choice,应该纯属个人的选择,,null,null
+权利类短语,a free and fair society,一个自由、公正的社会,,should be a personal choice,扩展短语
+权利类短语,provide people with more choices,为人们提供更多的选择,,null,null
+权利类短语,provide people with more food choices,为人们提供更多的食品选择,,provide people with more choices,具体分类
+权利类短语,provide people with more shopping choices,为人们提供更多的购物选择,,provide people with more choices,具体分类
+权利类短语,can achieve a work-life balance,可以实现工作和生活之间的平衡,,null,null

@@ -1,0 +1,23 @@
+分类,英文短语,短语中文翻译,说明,所属短语,短语关系
+环境类短语,"reliable public transport services",可靠的公共交通服务,,null,null
+环境类短语,"reliable healthcare services",可靠的医疗服务,,null,null
+环境类短语,"pollute the environment",污染环境,,null,null
+环境类短语,"damage our health",破坏我们的健康,,pollute the environment,扩展短语
+环境类短语,"create waste and pollution",产生垃圾废料和污染,,null,null
+环境类短语,"cause health problems",导致健康问题,,create waste and pollution,扩展短语
+环境类短语,"increase carbon emissions",增加碳排放,,null,null
+环境类短语,"car fumes",汽车尾气,,increase carbon emissions,具体分类
+环境类短语,"reduce carbon emissions",减少碳排放,"对比：",increase carbon emissions,对比短语
+环境类短语,"contribute to global warming",加剧全球变暖,,null,null
+环境类短语,"contribute to climate change",加剧气候的变化,,contribute to global warming,同义替换
+环境类短语,"put pressure on...",对……构成压力,,null,null
+环境类短语,"grow rapidly",快速增长,(人口)快速地增长,put pressure on...,具体分类
+环境类短语,"consumer society",崇尚消费的社会,,put pressure on...,具体分类
+环境类短语,"put pressure on natural resources",对自然资源构成压力,,put pressure on...,搭配宾语
+环境类短语,"reduce biodiversity",减少生物的多样性,,null,null
+环境类短语,"destroy natural habitats",破坏动植物的自然栖息地,,reduce biodiversity,扩展短语
+环境类短语,"habitat",栖息地,"拼写：注意 habitat（栖息地）和 habits（习惯）的拼写不同",null,拼写提示
+环境类短语,"become overcrowded",变得过于拥挤,,null,null
+环境类短语,"city dwellers/urban residents",城市居民,,become overcrowded,具体分类
+健康类短语,"cause health problems",导致健康问题,,null,null
+健康类短语,"increase the risk of heart disease and high blood pressure",增加患心脏病和高血压的风险,,cause health problems,扩展短语

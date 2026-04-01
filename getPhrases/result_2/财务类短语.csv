@@ -1,0 +1,61 @@
+分类,英文短语,短语中文翻译,说明,所属短语,短语关系
+健康,have a balanced diet,保持均衡的饮食结构,,null,null
+健康,boost the immune system,提高身体的免疫机能,,have a balanced diet,扩展短语
+健康,contain too much fat and sugar,（快餐）含有过多的脂肪和糖,,null,null
+健康,damage our health,破坏我们的健康,,null,null
+健康,rely heavily on ...,“严重依赖于……”,,null,null
+健康,rely heavily on fast food,严重依赖于快餐,,rely heavily on ...,具体示例
+健康,rely heavily on cars,严重依赖于汽车,,rely heavily on ...,具体示例
+健康,rely heavily on technology,严重依赖于科技,,rely heavily on ...,具体示例
+健康,promote healthy lifestyles,（政府、媒体、学校）推广健康的生活方式,,null,null
+健康,encourage people to make healthy food choices,鼓励人们去选择健康的食品,,promote healthy lifestyles,扩展短语
+健康,improve healthcare services,改善医疗服务,,null,null
+健康,medical research,医学研究（名词短语）,,improve healthcare services,相关术语
+健康,have a sense of belonging,（员工、居民）有归属感,,null,null
+健康,lack a sense of belonging,缺乏归属感,,have a sense of belonging,反义表达
+健康,feel lonely and unhappy,感到孤独而且很不开心,,null,null
+健康,feel lonely and isolated,感到孤独而且很孤立,,null,null
+财务类短语,consumer culture,崇尚消费的文化,"它的意思不是“消费者文化”×，而是“崇尚消费的文化”√",null,null
+财务类短语,increase the demand for products,增加对于产品的需求,,consumer culture,扩展短语
+财务类短语,create jobs,创造就业,,consumer culture,扩展短语
+财务类短语,put pressure on natural resources,对自然资源构成压力,,consumer culture,负面后果
+财务类短语,often overspend,经常过度消费,,null,null
+财务类短语,buy things that they do not really need,购买他们并不真正需要的物品,,often overspend,具体行为
+财务类短语,have debts,欠下债务,,often overspend,结果
+财务类短语,focus on money and possessions,集中精力在金钱和财产上面,,null,null
+财务类短语,are too materialistic,过于物质化的，过于追求物质享受的,,focus on money and possessions,同义替换
+财务类短语,have good spending habits,有良好的消费习惯,,null,null
+财务类短语,often overspend,经常过度消费,,have good spending habits,对比反例
+财务类短语,buy things on impulse,冲动地购物,,have good spending habits,对比反例
+财务类短语,reduce costs,（企业）减少开支,,null,null
+财务类短语,provide lower prices,（网络商店）提供更低的价格,,null,null
+财务类短语,are more affordable,价格更合理,,provide lower prices,同义替换
+财务类短语,low-income families,低收入的家庭（名词短语）,,null,null
+财务类短语,reduce poverty,减少贫困,,low-income families,积极影响
+财务类短语,reduce inequality,减少不平等现象,,low-income families,积极影响
+财务类短语,give financial support to ...,（政府、大学、发达国家等）为……提供资助,,null,null
+财务类短语,are under-funded,（学校、博物馆等）资金不足,,give financial support to ...,问题背景
+财务类短语,have more important concerns,（政府）还有其它更加急需关注的问题,,null,null
+财务类短语,have limited funds to spend,只有有限的可用资金,,have more important concerns,原因解释
+财务类短语,raise people's standard of living,改善人民的生活水平,,null,null
+财务类短语,improve public services,改进公共服务，例如教育、医疗、公共交通,,raise people's standard of living,实现方式
+财务类短语,pay taxes,纳税,,null,null
+财务类短语,government tax revenue,政府税收（名词短语）,,pay taxes,相关术语
+财务类短语,contribute to the economy,对经济做出贡献，例如广告、历史建筑、旅游业,,null,null
+财务类短语,boost economic growth,促进经济的增长,,null,null
+财务类短语,economy,economic是形容词“经济的”,economy是名词“经济”，economic是形容词“经济的”,boost economic growth,词汇辨析
+财务类短语,create jobs,创造就业,,null,null
+财务类短语,make the country more competitive,让国家变得更有竞争力,,create jobs,积极影响
+财务类短语,take away jobs from ...,（跨国公司、长距离运输的食品、人工智能）抢走……就业机会,,null,null
+财务类短语,multinational companies / multinational corporations,跨国公司,,take away jobs from ...,具体主体
+财务类短语,Food that is transported over long distances takes away jobs from local farmers and local food producers (当地食品生产商).,【经济学人例句】,,take away jobs from ...,完整例句
+财务类短语,increase the burden on ...,加重……的负担,,null,null
+财务类短语,increase the burden on taxpayers,加重纳税人的负担,,increase the burden on ...,具体应用
+财务类短语,increase the burden on the healthcare system,加重医疗体系的负担,,increase the burden on ...,具体应用
+财务类短语,are interconnected,（国家之间，经济之间）是相互联系的,,null,null
+财务类短语,international trade,国际贸易,,are interconnected,具体体现
+财务类短语,cultural exchange,文化交流,,are interconnected,具体体现
+安全类短语,pose a threat to society,对社会构成威胁,"“pose”不只是指拍照时摆姿势，pose a threat to也是地道英文里的常用短语",null,null
+安全类短语,prevent crime,预防犯罪,,null,null
+安全类短语,reduce crime rates,降低犯罪率,,prevent crime,目标或效果
+安全类短语,commit a crime,犯罪,"地道英文里不写 do a crime × 或者 make a crime ×",null,错误搭配

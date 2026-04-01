@@ -1,0 +1,42 @@
+分类,英文短语,短语中文翻译,说明,所属短语,短语关系
+文化类短语,"a key part of our heritage",我们的文化传承的一个重要部分,,null,null
+文化类短语,"famous landmarks",著名的标志性建筑,,a key part of our heritage,扩展短语
+文化类短语,"attract many tourists",吸引很多的游客,,a key part of our heritage,扩展短语
+文化类短语,"contribute to the local economy",为当地的经济做贡献,,a key part of our heritage,扩展短语
+文化类短语,"enrich the local culture",丰富当地的文化,,null,null
+文化类短语,"make cities more interesting and enjoyable",让城市变得更有趣而且令人愉快,,enrich the local culture,扩展短语
+文化类短语,"have character",有鲜明的个性特色，例如历史建筑，手工制作的产品,,null,null
+文化类短语,"lack character",缺乏鲜明的特色,"对比：现代建筑、大量生产的产品",have character,对比反义
+文化类短语,"interesting and enjoyable",有趣而且令人愉快的（形容词短语）,,null,null
+文化类短语,"reduce stress and anxiety",减轻压力和焦虑,,interesting and enjoyable,扩展短语
+文化类短语,"encourage their imagination",激发他们的想象力,,null,null
+文化类短语,"make children more creative",让儿童变得更有创造力的,,encourage their imagination,扩展短语
+文化类短语,"share ideas and opinions",分享想法和意见,,null,null
+文化类短语,"share photos and videos",分享照片和视频,,share ideas and opinions,扩展短语
+文化类短语,"make life more convenient and comfortable",让我们的生活变得更方便舒适,,null,null
+文化类短语,"easy to carry around",方便携带,,make life more convenient and comfortable,扩展短语
+文化类短语,"rely too much on technology",过度地依赖于科技,"对比：过度地依赖于科技",make life more convenient and comfortable,对比反义
+文化类短语,"cause health problems",导致健康问题,"对比：导致健康问题",make life more convenient and comfortable,对比反义
+文化类短语,"upload photos",上传照片,"用法说明：‘下载’是download，那‘上传’应该怎么写？当然就是upload，例如：upload photos, upload videos",null,例句
+文化类短语,"upload videos",上传视频,"用法说明：‘下载’是download，那‘上传’应该怎么写？当然就是upload，例如：upload photos, upload videos",null,例句
+文化类短语,"interact with",和……交流互动,"用法说明：‘和……交流互动’ interact with + 某类人",null,固定搭配
+文化类短语,"interact with their friends on the Internet",在互联网上和朋友们交流互动,"用法说明：在互联网上和朋友们交流互动",interact with,具体例句
+文化类短语,"interact with local people",与当地的人们交流互动,"用法说明：（游客）与当地的人们交流互动",interact with,具体例句
+文化类短语,"find information quickly and easily",快速、轻松地找到信息,,null,null
+文化类短语,"a key source of information",一种重要的信息来源,"（互联网、报纸、广告、新闻等）一种重要的信息来源",find information quickly and easily,扩展短语
+文化类短语,"save time and energy",节省时间和精力,,null,null
+文化类短语,"reduce face-to-face interaction",减少面对面的交流,,null,null
+文化类短语,"rely too much on social media",过度地依赖社交媒体,,reduce face-to-face interaction,扩展短语
+文化类短语,"in a virtual world",在一个虚拟的世界里,,reduce face-to-face interaction,扩展短语
+文化类短语,"feel lonely in real life",在真实的生活里感到很孤独,,reduce face-to-face interaction,扩展短语
+文化类短语,"keep in touch with family and friends",与亲友们保持联系,,null,null
+文化类短语,"share photos and videos",分享照片和视频,,keep in touch with family and friends,扩展短语
+文化类短语,"video-chat with them",与他们视频聊天,,keep in touch with family and friends,扩展短语
+文化类短语,"feel motivated",感觉很有动力，“动力十足”,,null,null
+文化类短语,"achieve their potential",充分发挥出他们的潜力,,feel motivated,扩展短语
+文化类短语,"feel bored",感到无聊,"对比：感到无聊",feel motivated,对比反义
+文化类短语,"feel frustrated",感到灰心，有挫败感,"对比：感到灰心，有挫败感",feel motivated,对比反义
+文化类短语,"repetitive tasks",重复的、乏味的任务（名词短语）,"对比：重复的、乏味的任务（名词短语）",feel motivated,对比反义
+文化类短语,"experience the local culture first-hand",直接体验当地的文化,,null,null
+文化类短语,"deepen their understanding of the local culture",深化他们对当地文化的理解,,experience the local culture first-hand,扩展短语
+文化类短语,"interact with local people",与当地人交流互动,,experience the local culture first-hand,扩展短语

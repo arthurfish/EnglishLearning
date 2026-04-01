@@ -1,0 +1,189 @@
+package main
+
+import (
+	"bytes"
+	"encoding/base64"
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"net/http"
+	"os"
+	"os/exec"
+	"path/filepath"
+	"strings"
+)
+
+// 配置信息
+const (
+	BaseURL  = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+	Model    = "qwen-vl-max" // 视觉任务建议使用专门的 VL 模型
+	InputDir = "pdf_input"
+)
+
+var ApiKey = os.Getenv("DASHSCOPE_API_KEY") // 请替换为你的 API Key
+
+// VLM 提示词（沿用之前优化的版本）
+const SystemPrompt = `
+# 角色与任务
+你是一个高精度的文档信息提取专家。请阅读我提供的图片（雅思写作语料书的PDF扫描件），将其中的核心知识点近乎无损地提取出来，并整理成标准、结构化的 CSV 格式数据。
+
+# 输出格式与列名
+请严格输出包含以下 4 列的 CSV 数据（必须包含表头）：
+分类,英文短语,短语中文翻译,说明与扩展
+
+# 提取规则（非常重要）
+1. 分类：识别当前页面的大类主题（如“技能类短语”、“效率类短语”等），填入该列。如果一页中有多个主词条，该分类需要向下填充对齐。
+2. 英文短语：提取带有数字序号的主词条（例如“1 develop their skills”），请去除数字序号，仅保留纯英文短语。
+3. 短语中文翻译：提取主词条正下方对应的中文翻译。
+4. 说明与扩展：将属于该主词条下方的**所有**补充信息合并归纳到这一列中。包含：
+   - 语法或规律解析（如“规律”、“用法”、“注意”、“辨析”等）
+   - 例句（如“【BBC例句】”、“【经济学人例句】”及其中英文内容）
+   - 扩展的子短语及其中文翻译（例如主词条下方罗列的“independent thinking skills 独立思考的技能”等）
+   *注：将这些补充信息合并为一段通顺的文本，不同条目间可以用句号或分号隔开。*
+5. 忽略噪音：彻底忽略页面上的图书馆藏书印章（如“电子科技大学图书馆藏书”）、二维码、页眉页脚的页码（如“技能 3”、“4”等）以及无关的水印文字。
+6. 排版纠错：由于是双栏排版或扫描件，文本可能出现换行截断、左右错位。请务必根据人类阅读的语义逻辑，将中英文正确拼接，确保主词条与它的扩展说明一一对应，绝不能张冠李戴。
+
+# 输出要求
+请直接在代码块中输出 CSV 格式的纯文本，不要包含任何额外的解释或寒暄。
+注意 CSV 的转义规则：使用英文半角逗号 , 作为列分隔符。如果“说明与扩展”列的文本内容中本身包含英文逗号或换行符，请务必用英文双引号 " 将该单元格的全部内容包裹起来，以防破坏 CSV 结构。
+`
+
+type Message struct {
+	Role    string    `json:"role"`
+	Content []Content `json:"content"`
+}
+
+type Content struct {
+	Type     string    `json:"type"`
+	Text     string    `json:"text,omitempty"`
+	ImageURL *ImageURL `json:"image_url,omitempty"`
+}
+
+type ImageURL struct {
+	URL string `json:"url"`
+}
+
+func main() {
+	// 1. 获取所有 PDF 文件
+	files, err := filepath.Glob(filepath.Join(InputDir, "*.pdf"))
+	if err != nil {
+		fmt.Printf("读取目录失败: %v\n", err)
+		return
+	}
+
+	for _, pdfPath := range files {
+		fileName := filepath.Base(pdfPath)
+		baseName := strings.TrimSuffix(fileName, filepath.Ext(fileName))
+		fmt.Printf("正在处理: %s...\n", fileName)
+
+		// 2. 将 PDF 转换为图像序列
+		imgPaths, err := convertPdfToImages(pdfPath)
+		if err != nil {
+			fmt.Printf("PDF 转换失败 [%s]: %v\n", fileName, err)
+			continue
+		}
+
+		// 3. 构建请求内容
+		var contents []Content
+		// 先放文字提示
+		contents = append(contents, Content{Type: "text", Text: SystemPrompt})
+		// 再放入所有图片
+		for _, imgPath := range imgPaths {
+			b64, err := fileToBase64(imgPath)
+			if err != nil {
+				continue
+			}
+			contents = append(contents, Content{
+				Type:     "image_url",
+				ImageURL: &ImageURL{URL: fmt.Sprintf("data:image/png;base64,%s", b64)},
+			})
+		}
+
+		// 4. 调用 API
+		csvResult, err := callVLM(contents)
+		if err != nil {
+			fmt.Printf("API 调用失败 [%s]: %v\n", fileName, err)
+			continue
+		}
+
+		// 5. 保存 CSV
+		outputFile := baseName + ".csv"
+		err = ioutil.WriteFile(outputFile, []byte(csvResult), 0644)
+		if err != nil {
+			fmt.Printf("保存失败: %v\n", err)
+		} else {
+			fmt.Printf("成功！结果已保存至: %s\n", outputFile)
+		}
+
+		// 清理临时图片
+		cleanupImages(imgPaths)
+	}
+}
+
+// 使用 pdftoppm 将 PDF 转换为 PNG
+func convertPdfToImages(pdfPath string) ([]string, error) {
+	tempDir := "temp_imgs"
+	os.Mkdir(tempDir, 0755)
+
+	prefix := filepath.Join(tempDir, "page")
+	// pdftoppm -png input.pdf temp_imgs/page
+	cmd := exec.Command("pdftoppm", "-png", pdfPath, prefix)
+	err := cmd.Run()
+	if err != nil {
+		return nil, err
+	}
+
+	matches, _ := filepath.Glob(prefix + "-*.png")
+	return matches, nil
+}
+
+func fileToBase64(path string) (string, error) {
+	data, err := ioutil.ReadFile(path)
+	if err != nil {
+		return "", err
+	}
+	return base64.StdEncoding.EncodeToString(data), nil
+}
+
+func callVLM(contents []Content) (string, error) {
+	requestBody := map[string]interface{}{
+		"model":    Model,
+		"messages": []Message{{Role: "user", Content: contents}},
+	}
+
+	jsonData, _ := json.Marshal(requestBody)
+	req, _ := http.NewRequest("POST", BaseURL, bytes.NewBuffer(jsonData))
+	req.Header.Set("Authorization", "Bearer "+ApiKey)
+	req.Header.Set("Content-Type", "application/json")
+
+	client := &http.Client{}
+	resp, err := client.Do(req)
+	if err != nil {
+		return "", err
+	}
+	defer resp.Body.Close()
+
+	body, _ := ioutil.ReadAll(resp.Body)
+
+	// 简单的响应解析（实际可根据需要定义结构体）
+	var result map[string]interface{}
+	json.Unmarshal(body, &result)
+
+	if choices, ok := result["choices"].([]interface{}); ok && len(choices) > 0 {
+		message := choices[0].(map[string]interface{})["message"].(map[string]interface{})
+		content := message["content"].(string)
+		// 清理 Markdown 代码块标识
+		content = strings.TrimPrefix(content, "```csv")
+		content = strings.TrimPrefix(content, "```")
+		content = strings.TrimSuffix(content, "```")
+		return strings.TrimSpace(content), nil
+	}
+
+	return "", fmt.Errorf("API 响应异常: %s", string(body))
+}
+
+func cleanupImages(paths []string) {
+	for _, p := range paths {
+		os.Remove(p)
+	}
+}
