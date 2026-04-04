@@ -2,3 +2,5 @@ huge_files
 .tmp*
 *.pdf
 *.exe
+all.txt
+*.csv.txt
