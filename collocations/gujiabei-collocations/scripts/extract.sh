@@ -14,20 +14,20 @@ to=$3
 case $cmd in
     "o") 
         # 增加 (HEADER FALSE) 避免导出表头
-        duckdb.exe -c "copy (select chinese, phrase from 'gujiabei-collocations.csv' where seq between $from and $to order by seq) to '$from-$to.origin.csv' (HEADER FALSE);"
+        duckdb.exe -c "copy (select chinese, phrase from 'database/gujiabei-collocations.csv' where seq between $from and $to order by seq) to '$from-$to.origin.csv' (HEADER FALSE);"
         mv "$from-$to.origin.csv" "$from-$to.origin.txt"
         echo "已生成: $from-$to.origin.txt"
         ;;
 
     "p") 
-        duckdb.exe -c "copy (select chinese from 'gujiabei-collocations.csv' where seq between $from and $to order by seq) to '$from-$to.practice.csv' (HEADER FALSE);"
+        duckdb.exe -c "copy (select chinese from 'database/gujiabei-collocations.csv' where seq between $from and $to order by seq) to '$from-$to.practice.csv' (HEADER FALSE);"
         # 兼容 Windows(\r\n) 和 Linux(\n) 换行符，将 -i 前置
         sed -i -E 's/\r?$/, /g' "$from-$to.practice.csv"
         echo "已生成: $from-$to.practice.csv"
         ;;
 
     "d") 
-        duckdb.exe -c "copy (select chinese, phrase from 'gujiabei-collocations.csv' where seq between $from and $to order by seq) to '$from-$to.display.csv' (HEADER FALSE);"
+        duckdb.exe -c "copy (select chinese, phrase from 'database/gujiabei-collocations.csv' where seq between $from and $to order by seq) to '$from-$to.display.csv' (HEADER FALSE);"
         # 指定 awk 以逗号为分隔符 (注意: 假设数据内部不包含被引号包裹的逗号)
         awk -F ',' '{
             # 移除可能存在的 Windows 回车符 \r
