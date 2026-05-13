@@ -1,0 +1,17 @@
+start at 19:02
+end at 19:28
+
+Satisfied               30% to 40% +
+Very satisfied       15% to 35% +
+Dissatisfied          40% to 15% -
+Very dissatisfied   10% to 5% -
+No response          5% to 5% =
+
+---
+The table and the pie charts illustate the change of visitors' attitude before and after refurbishing Ashdown Museum.
+
+Overall, the number of visitor grew significantly after the museum's refurbishment. The proportion for visitors who were satisfied and very satisfied rose after the museum was refurbished, whereas the figures for those who were dissatisfied or very dissatisfied witnessed a decrease after the refurbishment.
+
+It can be seen from the table that the total number of visitors experienced a significant surge after refurbishment, from 74,000 to 92,000.
+
+Turning to the pie charts, the proportion of those who satisfied grew, whereas that of those who dissatisfied declined. The figures for those were satisfied or very satisfied rose from 30% to 40%, and from 15% to 35%, respectively. Although the percentage for dissatisfied visitors accounted for the biggest proportion before refurbishment, it finally decreased to 15%. That for vistors who did not response remain the same as the past.

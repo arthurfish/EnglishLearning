@@ -1,0 +1,15 @@
+# draft
+No other language: 30% + 35%
+Two other language: 10% + 15%
+Another language: 15% + 20%
+Spanish only: 20% - 10%
+French only: 15% - 10%
+German only: 10% = 10%
+---
+These pie charts compare different percentage of students in the UK who can use other languages over a 10-year period.
+
+It is clear from the first chart that the percentage of students who do not spoke other language account for the biggest part among these 6 kinds, which is 30%. It followed by students who spoke Spanish only, constituting 20%. The figure for students use French only is as the same as students use another language, and both of them make up 15%. Students who spoke German and students who spoke two other language only account for the smallest part of the chart, they consititute 10% equally.
+
+We can see the change clearly from the second charts. Students use no other language, two other language, and another language witnessed a increase over the period from 2000 to 2010. The percentages of them rise from 30% to 35%, from 10% to 15%, from 15% to 20%, respectively. However, the figure for spanish only, french only decline slightly. The proportion of Spanish drop by 10%, while that of students use French only drop by 5%. The figure for the German only remains stable at 10% during the 10 years.
+
+In conclusion, students who spoke English only make up the biggest part in 2000 and 2010. During the period, the percentage of students who use no other language, two other language, another language increased, whereas other declined or remained stable.

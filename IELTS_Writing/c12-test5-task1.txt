@@ -1,0 +1,11 @@
+---
+start: "19:54"
+end:"20:18"
+---
+The graph compares different percentage of Australian males and females doing regular physical exercise in different age groups in 2010.
+
+Overall, the level of men who did regular physical activity consistently lower than that of woman, except the age group 15 to 24. The percentages of females peaked at 53.3% in the age group 45 to 54, whereas that of males reached its lowest point at 39.5%.
+
+It can be seen from the bar chart that the proportion of weman higher than that of man almost  in every age groups, except the age group 15 to 24. The gap initially widened from the age between 25 to 44,  then narrowed after the age of 44. In the age group 65 and over, the gap almost disappeared.
+
+The trend of male is quite different from that of female. That of males stood at 52.8% in age group 15 to 24. Afterwards, it reached its lowest point at 39.5%. Then it gradully grew to 46.7%. However, the data for female witnessed an opposite trend. It peaked at 53.3% first, and finally ending at 47.1%, almost the same as that for males.

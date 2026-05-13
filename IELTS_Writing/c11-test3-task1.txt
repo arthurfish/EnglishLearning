@@ -1,0 +1,7 @@
+The line chart illustrates average carbon dioxide emissions per capita in 4 countries from 1967 to 2007.
+
+Overall, the emission of the United Kingdom has been consistently higher than that for other countries, whereas the figure for Portugal remained consistently lower than that for others. The number of Italy overtook that for Sweden after about 1987.
+
+It is clear from the chart to see the number of Italy and the number of Portugal rose steadily over the 40-year period. The emissions of Portugal gradually increased from about 1 tonne to 5 tonne from 1967 to 1997. Subsequently, it has remained stable since 1997. That for Italy stood at just over 4 tonne at 1967, followed by an increase until 1997, and it finally remained steady at just under 8 tonne.
+
+Turning to the figures for the UK and Sweden, the 2 countries both experienced a downward trend over the period. However, the number of United Kingdom consistently declined from about 11 tonne to just under 9 tonne, while that for Sweden initially reached its peak at about 10 tonne, then fell sharply from 1977 to 2007, ended up the same as that for Portugal.
