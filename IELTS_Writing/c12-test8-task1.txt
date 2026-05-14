@@ -1,0 +1,13 @@
+---
+start: 18:55
+end: 19: 14
+words: 153
+---
+
+The process diagram demonstrates how to generate electricity by geothermal energy.
+
+Overall, cold water flows through the geothermal zone, traps the heat from hot rocks, and finally becomes steam to power the generator.
+
+At the first stage, cold water is pumped down into the injection well which is 4.5 km in depth. After that, the water runs through geothermal zone which is occupied by hot rocks. The rocks will heat the water, turning the cold water into hot water. Then the hot water is pumped up through the production well, with being gathered into a condenser, finally being converted to steam before driving a turbine to generate electricity. 
+
+Afterwards, when the enery has been extract from the hot rocks to the steam, the steam drive a turbine, while the generator powered by turbine turning the geothermal power into electricity. In the end, the produced electricity will be transfered to users through electricity infrastructure.

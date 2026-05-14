@@ -1,0 +1,19 @@
+---
+start: 8:13
+end: 8:43
+
+Main road -> surrounding the twon center, become dual carriageway
+center of Main road -> Pedestrains only
+
+shops: only south part
+park: small
+new housing appeared on the north of the Main road, and near Park
+bus station, shopping center, car park lay on north
+---
+The graphs compares the current situation and its development plans of Islip.
+
+Overall, the road system will change significantly, with buildings and facilities are expected to appear, remove, relocate.
+
+It can been clearly seen from the maps that the road system is going to experience a considerable modification. The main road is expected to be convert into a pedestrians only. The old road would be extended to a round dual carriageway, surrounding the center of the small town.
+
+Turning to buildings and facilities, they are expected to see a large change. Only the shops lying on the south of Main road will remain. The northern area of Main road will be occupied by bus station, shopping center, car park, and new housing. The park  near new housing will be reduced in area. By contrast, the school next to the dual carriageway is expected to remain the same scale.

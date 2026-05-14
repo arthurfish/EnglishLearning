@@ -1,0 +1,18 @@
+---
+start: 22:15
+end: 22:41
+words: 162
+AI grade: 6.5
+
+China: 76
+US: 233
+Ru: 19
+---
+
+The graph compares the amount of production and consumption of electricity among ten nations in 2014.
+
+Overall, the amount of production of electricity was higher than that of the consumption in almost every country except Germany. China and United States accounted for the largest share of both the production and consumption of electricity.
+
+China produced 5,398 billion kWh of electricity, and consumed 5,322 billion kWh in the same year, making up the largest proportion among the ten countries. This was followed by United States, which generated 4,099 billion kWh and used 3,866 billion kWh. Although the US did not produce and consume much electricity the same as China, it surpassed others considerably.
+
+Germany produced 526.6 billion kWh in 2014. However, it consumed more electricity(582.5 billion KWh) than it produced, making it different from other nine countries. Among these countries, United States had the largest gap between production and consumption of electricity(233 billion kWh), whereas Russia had the smallest gap(about 19 billion kWh).

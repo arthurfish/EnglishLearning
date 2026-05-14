@@ -1,0 +1,12 @@
+---
+start: 9:09
+
+---
+
+The bar chart compares the frequency of people eating at fast food restaurants in America from 2003 to 2013.
+
+Overall, the percentages of the three years share a common n-shapped pattern, whereas slight differences still appeared across years.
+
+It can be seen from the bar chart that the figures for the 3 years share a common pattern. The percentages of people eating in fast food restaurants in abnormal frequency(everyday or never) stood at its lowest points, whereas those who ate in a moderate frequency(once a week, once or twice a month) accounted for the largest share among the 6 frequencies.
+
+Although the pattern is similar, there were differences in proportion among the frequencies. For people who ate in fast food restaurant every day or never, the figure for those in 2003 was higher than that in 2006 and 2013, while the figure in 2006 was the same as 2013. For those who ate in the restaurants several times a week or once a week, their proportion peaked at 2006 and then declined by 2013.

@@ -1,0 +1,12 @@
+---
+words: 174
+AI grade: 6.0
+---
+
+The bar chart compares different percentages of households between owned and rented accomodation in England and Wales in from 1918 to 2011.
+
+Overall, the pattern for those who lived in owned accommodation was significantly different from that for those who lived in rented places. The trend of the former was almost a consistent increase, whereas that of the latter witnessed a large decline during the period.
+
+The proportions of households in owned stood at about 22% in 1918. Then it increased slightly to just over 30%, remaining stable by 1953. This was followed by a sharp rise, reaching its peak at 68% in 2001. In the end, the proportion fell back to 64% in 2011.
+
+By contrast, the figure for households in rented accommodation experienced a steep decrease over the whole period. At first, it accounted for around 77% in 1918. Then it remained stable at just under 70% in 1939 and in 1961. Afterwards, it jumped rapidly from about 70% to about 32% by 2001. Finally, it grew slightly to 36% in 2011.
