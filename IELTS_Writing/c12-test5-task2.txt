@@ -1,0 +1,18 @@
+---
+start: "15:30"
+end: "16:23"
+check: "16:30"
+words: 262
+AI grade: 6.5
+完全分享信息对于个体和整体都有益处。分享信息能够降低研究成本，帮助科技进步，行业发展，从而促进社会经济。对于分享信息的主体来说，有助于引领行业，确立标准，增加知名度。Facebook的软件PyTorch帮助它赢得AI领域的领导地位。
+不能忽视分享信息的风险。信息包含创作者的劳动，企业的投入甚至对于运气的奖励，如果无限共享信息，则无法补偿信息的花费。同时信息对于企业保有竞争力非常重要，如果完全共享信息，其他企业无需投入就能获得信息，这会让市场变得不公平。强迫汽车工厂分享图纸是不合理的，因为它包含了人员的投入还有测试的花费。
+总而言之，分享信息确实对于公司对于社会存在好处，然而不应该强迫所有人无偿分享信息。如果无偿分享信息，那么为信息付费是可以接受的。政府也可以为信息分享提供补贴，覆盖信息所有者的开销。
+---
+
+Information plays a critical role in science and business. Some argue that it is important to share as much information as possible in some areas, while others consider that doing this is not a good choice. Personally, I think that although information can be shared freely, it is still reasonable not to do this.
+
+Admittedly, sharing information benefits both society and the owner of information usually. For the public, open access to useful information helps in reducing the cost of research, contributing to technological advance, and boosting the economy. For the owners of information, the behaviour can possibly establish industrial standards, attain fame, and lead the trend of industry. For example, Facebook opened its machine learning frameworks to the public, while this made it the leader of the area of artificial intelligence.
+
+However, the risk of sharing information cannot be neglected. Information, especially valuable information, contains personal effort, companies' investment, and even good luck. If the valuable information is shared freely, it is hard to compensate the costs. Moreover, information plays a vital role in keeping enterprises or institutions competitive. If a software company has to share its source code unconditionally, others can obtain the benefits from the code without needing to developing or testing. Obviously, it is unfair. 
+
+In conclusion, sharing information is usually good for both the owner and the public. However, it is not always true. The behaviour should be encouraged, but should not be enforced. It is reasonable and acceptable to pay for information or data, while the cost and effort for producing it should sometimes be covered. 

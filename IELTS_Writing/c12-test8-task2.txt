@@ -1,0 +1,20 @@
+---
+start: "20:15"
+takes: 15min
+remains: 25min
+start2: "22:45"
+end: "23:21"
+AI Grade: 6.0
+
+自己决定，只有机会考虑自己感受，难以理解家人需求，以及实际经济状况，从而难以养成金钱观。对于非常小的孩子来说，让他做决定是危险的。成为大人后如果仍然没有关注他人的经验，则这样的习惯变得自私，以及超前消费。
+
+然而适当的独立决策也是需要的。做决策就是负责的过程，决定的能力又非常重要，孩子不能一生都由父母做决定，特别是一些重要的事情比如职业和家庭。如果孩子的行为只由父母计划他将难以进行决定，可能失去判断并决策的能力。对于拥有判断能力的孩子，父母应该提供机会
+---
+
+Ability of making decisions is a critical component for a huamn, especially for a child. Some argue that allowing children to make their own daily choice will have negative effects such as selfishness, while others consider that it is important to let them make the choices. Personally, I think it depends on that whether or not children are qualified to make such decisions.
+
+Undeniably, allowing children to make their own choice on daily matters is dangerous for children in young ages. If parents allow them to do so, the children might only consider their own feelings without understanding others or neglecting their family conditions. For example, if very young children can buy toys whatever they want, it is hard for them to get healthy financial values, and they might tend to spend more than they earn in the future. Moreover, when  children grow up without experience of caring for others' feelings and needs, they are prone to become selfish.
+
+However, making their own decison is sometimes demanded for their independence. Children must be responsible for theirselves when they grow up, while making their own choices means taking their own responsiblity. Parents cannot help their children make decision every time, especially on big decisions such as which career to pursue or which college to enter. If children are not allowed to make their own choices on everyday matters, they might lose their thinking or decision skills. For children qualified to make their own choices, they should be encouraged to do so.
+
+Overall, the anwser to that whether or not children are allowed to make their own choice depends on childrens' situations. For very young children, it is approprate for their parents to decide which food to eat or which clothes to wear. However, for children who is able to make right decision, they should be encouraged to do so.

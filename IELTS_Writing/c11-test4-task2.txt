@@ -1,0 +1,24 @@
+---
+start: "13:21"
+end: "14:33"
+words: 256
+AI grade: 6.0~6.5
+
+skill, efficiency
+technology, safety
+right, responsibility
+environment, health
+employment, money
+culture, fun
+
+Most important: job opportunities, a well-educated workforce, boost technology innovation, government revenue
+Equally important: without equality, do not narrow the financial gap, exaberate resentment. without environment, ....
+---
+
+Given the obvious importance of the economic, it is sensible for governments to consider economic progress as the most important goal, while some argue that governments should treat other types of progress equally. Personally, I believe they should not concentrate on the economic only.
+
+Admittedly, focusing on the economic has immediate benefits. It is obviously that economic growth provides the public with more job opportunities, while job opportunities mean sources of income. Without a steady source of income, people might be hard to lead a comfortable and happy life. Moreover, economic progress contributes to technological progress, boosting technological development. The reason is that cutting-edge technology helps companies in acquiring an competitive edge in the tough economic competition. Additionally, an active economy will increase government revenue, and with more government revenue, public services such as public transport systems, and healhcare systems will benefit from it.
+
+However, if governments ignore other types of development, the advantages of economic progress will possibly turn into social problems. If the wealth divide expands instead narrows, resentment from the underprivileged will accumulate. This might pose threat to the society. Without conventional environmental protection, people will be possibly exposed to polluted water or air. When the environment consistently becomes hazardous, residents may suffer from diseases concerning poor environmental conditions. The undeniable consequence makes it counterproductive to focus only on the economy.
+
+In summary, although economic growth is a critical component of society, governments should not just consider economic progress the only goal. The developments of economy and other types should be carefully balanced.

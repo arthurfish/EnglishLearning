@@ -1,0 +1,20 @@
+---
+start: "16:47"
+end: "17:47"
+words: 252
+AI grade: 大于等于6.0
+
+首先承认这种情况带来的挑战。老年人往往比年轻人拥有更多的经验，这些经验会让他们更有问题解决能力。年轻人虽然更有精力但经验较少，如果老年人的人数太少，企业将无法得到这些重要的协助。同时因为老年人往往传承了过去的文化，老年人的减少会导致文化失去传承，进而降低地区的多元性。
+
+然而年轻人口的增多会带了更多的好处。年轻化有利于地区经济，同时年轻人的增多不仅不会减少老年人的利益，甚至有利于老年人。年轻人往往更engage in生产和消费，更有精力和创造力。当地区年轻人数量增多的时候，这个地区的经济会变得活跃（flourishing）。经济的增加带来政府财政增加，增加的财政不仅可以保证老年人的退休金，还能更多投入健康系统，有利于老年人的基础设施比如公园养护等。
+
+简而言之，年轻人比例的增加的好处远远多于坏处，国家应该想办法增加年轻人的数量，这样不仅能促进地区的经济，老年人也能获得好处。
+---
+
+The number of the young generation has gradually become more than that of the elderly. Personally, I think the advantages of this situation outweigh the disadvantages.
+
+Admittedly, the situation undeniably brings about chellenges. Senior citizens usually have more hands-on experience and expertise than the youngers. With these experience and expertise, the elders have more problem-solving skills, interpersonal skills, and managerial skills. If the figure for old people consistently declines, companies and institutions cannot obtain these skills from the older, which damages their competitive edges. Moreover, some older people have special cultural heritage. The decrease of their number might cause the lost of cultural heritage, damaging cultural diversity.
+
+However, the growth of the number of young adults would bring more benefits. Young adults tend to produce and consume more than the elders, and are more energetic and creative, which can contribute to the economy. When the population of young adults expands, the economy will be flourishing and robustic.  This is followed by the growth of government revenue. With the increased revenue, the pressure on retirement pension will be reduced, and the extra funding can be invest in public services, such as healthcare systems. Obviously, the elderly need well-maintained healthcare systems. This means that even the older generation can benefit from the increasing number of young adults.
+
+In summary, the advantages of rising number of young adults outweigh the disadvantages. Countries should try to increase the number of young adults, which could not only boost the economy, but also raise senior citizens' living standards.

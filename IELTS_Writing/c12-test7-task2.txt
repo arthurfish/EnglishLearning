@@ -1,0 +1,17 @@
+---
+start: "18:00"
+end: "18:40"
+ai grade: 6.5
+
+高铁增加通勤效率，减少城市间旅行时间，让临近城市更加紧密，促进了区域发展。对于在上班族来说，高铁增加了一种新的生活可能性，就是在一个城市居住在另一个城市工作，可能能够降低住房成本。城际高铁可以让买不起车的家庭进行城际交通，这意味着如果将资源集中于城际高铁而不是现有的道路系统，低收入的家庭也可以从这个决定中获益。
+
+subway or bus -> reduce traffic jams; road system ->  the road system is more flexible than very fast trains, foster local buniness;benefits work in the same city as they live
+---
+
+Very fast trains play an vital role in transports between cities. Some argue that it is important to invest large money in building new railway lines for very fast trains between cities, while others think that the funding should be spent on current public transport.
+
+It is obvious that very fast trains increase the efficiency of traveling between cities, reducing time consumption, and making adjacent cities being close to each other. These advantages boost economic development. Additionally, very fast trains provide daily commuters with another living opportunity, which is working and living in different cities. This might help in reducing their housing costs. Another important advantage is that the trains enable people who cannot afford a private car to travel between cities. So if the money is spent on very fast trains, less well-off families will benefit from this.
+
+Addmittedly, investing money in existing public transport is still a sensible decision. If subways and buses are improved, traffic congestion will be reduced. Since the road system is more flexible than railways, improving road system such as expanding the roads benefits local residents on their daily communication. For daily commuters who lives and works in the same city, more efficient public transport services will actually raise their living standards.
+
+Personally, I believe that whether or not spending funding on very fast trains depends the specific situations. For underdeveloped areas, without a flourishing economy, very fast trains cannot be useful as expected. So funds should be used in existing public transport to boost the local economy. For developed areas, spending on very fast trains is better. 

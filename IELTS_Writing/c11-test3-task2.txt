@@ -1,0 +1,24 @@
+---
+start: "22:02"
+end: "22:53"
+words: 301
+AI grade: 6.0 (TR 6.5 / CC 6.5(Qwen) or 6.0(Gemini) / LR 6.0 / GRA 6.0)
+
+skill, efficiency
+technology, safety
+right, responsibility
+environment, health
+employment, money
+culture, fun
+
+only: translation tools; money, time and effort; preseverance, low efficiency
+not only: keep open-minded, first-hand information, make foriegn friends, make the most of the ecosystem
+---
+
+The cost of learning a new language is sometimes surprisingly high, so is it true that the only reason for learning a foreign language is to travel to or work in foreign countries? I believe that these are not the only reasons.
+
+Admittedly, learning a foreign language is not rewarded as in the past because of advanced technology. Translation programmes and generative artificial intelligence tools allow people to communicate with foreigners, and the users do not need to use a foreign language. Moreover, learning a foreign language costs so much. If learners decide to pick up a new language, they should spend tuition fees, efforts, and time on language learning. Because of that undeniable costs, if people do not need to travel to or work in a foreign country, it is hard for them to be motivated.
+
+However, a language is not just a means of communication. Language learning process help learners to keep open-minded. The reason is that the same idea in different languages might contain different meanings, which offers people to have additional perspectives when they are thinking. Learning languages helps in making foriegn friends, enabling learners to keep in touch with people around the world. Although translation programmes share the workload concerning language, some of the first-hand information inside original language is hard to be translated, especially emotional express. Furthermore, a language has a ecosystem behind the language itself. Learning a language means learners can make the most of the ecosystem. For example, if a student masters English, he or she can appreciate English novels, movies, and textbooks.
+
+In summary, although learning a foreign language is hard and sometimes expensive, traveling to or working in a foreign country can not be the only reasons why someone should do it. A language is not just a tool of talking.
