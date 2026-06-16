@@ -1,0 +1,13 @@
+---
+start:17:36
+end: 18:02
+---
+
+The given tables demonstrate how the figure for population changed from 1800 to 2000.
+
+Overall, the total number of population of New York City witnessed a significantly increase over the period. However, the proportion of population of Manhattan gradually decreased while that of other 4 districts saw an upward trend in the same period.
+
+The number of population of Manhattan started with 60,515 in 1800, while that of all five districts was 79,216, making up 76% of total population. The number of population of Manhattan kept an upward(1,850,093) trend at 1900. However, it only constituted 54% of total population of New York City which had 3,437,202 people in that year. Afterwards, the number and the percentage of population in Manhattan both witnessed a decline by 2000, ending at 1,538,096, and 19%, respectively.
+
+In contrast, both the number and the percentage of other districts saw an rapid increase from 1800 to 2000. The number of population of these four districts stood at 18,701 and 24% in 1800, dramatically growing to 1,587,109 and 46% in 1900, respectively. The figure for population finally peaked at 6,471,089 while the proportion jumped to 81% in 2000.
+

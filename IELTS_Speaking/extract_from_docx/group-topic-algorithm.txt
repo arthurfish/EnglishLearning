@@ -1,0 +1,13 @@
+目的：通过LLM，为db的每一组，找到合适的口语话题。
+
+输入：db.csv(db), speaking.csv(spk)。接下来出现的“组”特指长度200的db数据行。
+
+首先，从spk里取出所有不同的的topic_name, 以及对应的topic_id。得到表格spk_topics(topic_name, topic_id)。这个表格全局使用。紧接着构造db_group_spk_topic(group_number, spk_topics: number[])
+
+把db的1-1200行的词伙根据seq分成12组，例如，第1组为1~200，第2组为201~300。提取出每一组的distinct的topic值，比如Academic Skills，Air Travel等。这样的到了group_db_distinct_topics列表。
+
+对于db的每一组，根据这一组的group_db_distinct_topics表，还有全局的spk_topic表，还有require（str）构造prompt，调用大语言模型，要求它返回这个组匹配的spk_topic_ids。放在标签<spk_topic_ids>里，用空格隔开每一个数字。把大模型返回的结果放到这一组对应的db_group_spk_topic里面。group_number对应这一组的index（index从1开始）。比如0~200的index为1,201~400的index为2。这样就能对于所有的组获得LLM关联的口语主题。
+
+调用llm的代码可以通过reference.go查看。reference.go已经证明可以成功执行任务。生成调用llm的代码时请忠于这个参考代码，不要自己发挥。
+
+最终输出这个db_group_spk_topic到csv里面。文件名：group_topic(group_number, topic_id, topic_name), topic_name是从spk查到的。

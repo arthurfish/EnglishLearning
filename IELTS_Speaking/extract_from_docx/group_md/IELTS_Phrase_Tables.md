@@ -1,0 +1,451 @@
+# Group 1
+
+| research skills | analytical skills | search the web for information |
+| --- | --- | --- |
+| do research | leadership skills | leadership qualities |
+| organisational skills | academic skills | problem-solving skills |
+| gather information | critical thinking skills | computer literacy |
+| practical skills | sharpen skills/add to the skill set | travel by air |
+| air transport | make non-essential trips | in the airline industry |
+| travel expenses | tourist attractions | greenhouse gases |
+| trap heat from the sun | unusually warm conditions | air travel |
+| transport...by air | price war | air fares |
+| on holiday | a source of pollution | build up in the atmosphere |
+| extreme weather conditions | animal tests | conduct experiments |
+| develop a new drug | side effect | medical tests |
+| medical products | animal experiments | animal welfare groups |
+| show promising results | exposed to abuse | alternative methods of research |
+| skincare products | historic building | heritage building |
+| cultural site | historic site | cultural attraction |
+| architectural landmark | architectural treasure | make a trip |
+| in ancient times | cultural heritage | good role models |
+| copy behaviour | behave badly | behavioural problems |
+| show good manners | show respect to (somebody) | send/take children to school |
+| first educators | domestic violence | poor behaviour |
+| show aggression | social norms | speak in a friendly manner |
+| pick up children | competitive advantages | satisfy the needs |
+| stand out from the crowd | worth a visit | a memorable experience |
+| visual experience | intense competition | serve a niche market |
+| set up a company | run a successful business | running cost |
+| make profits | go bankrupt | make ends meet |
+| go bust | good value for money | business plans |
+| cost reduction measures | handle complaints | curb car use |
+| create exhaust fumes | cause air pollution | suffer from poor health |
+| mitigate problems | increase the health cost | climate change |
+| car emissions | dangerous to our health | tackle pollution |
+| poor air quality | a bad harvest in agriculture | global warming |
+| self-made celebrities | start from scratch | lead a life of luxury |
+| designer clothes | extravagant parties | live a frugal life |
+| drive prestigious cars | set a bad example | pursue material goods |
+| pop singers | movie stars | positive role models |
+| the younger generation | sports stars | develop skills |
+| become world famous | role models | demonstrate determination |
+| achieve success | admire celebrities | famous entertainers |
+| achieve fame | devoted fans | famous sportspeople |
+| inspire the next generation | develop talents | emulate idols |
+| a good influence | encounter difficulties | charitable organisations |
+| mobilise resources | medical aid | people in need |
+| live in poverty | impoverished countries | raise funds |
+| international aid | needy people | basie necessities |
+| get rid of poverty | Third World countries | follow a dress code |
+| dress formally | present a professional image | social rules |
+| social etiquette | wear uniforms | casual dress |
+| make a good impression | social norms | public places/spaces |
+| face-to-face communication | human interaction | facial expression |
+| avoid misunderstandings | listen to others | communication skills |
+| interpret messages | body language | a sign of respect |
+| a good listener | a good communicator | form strong relationships |
+| live far away from family | family life | live alone |
+| social activity | charity work | community cohesion |
+| needy people | gain support | part of community |
+| a sense of community | raise funds | charity groups |
+| give a helping hand | experience difficult times | members of community |
+| bring people together | musical shows | computer games |
+| educational games | computer skills | computer literacy |
+| connect to the Internet | download software | use online communication tools |
+| store information | process documents | edit photos |
+| produce videos | consumer societies | spend more than they earn |
+| the latest gadgets | pay off debts | low income families |
+| buy more than they need | excess shopping | get into debt |
+| financial problems | economic pressure |
+
+# Group 2
+
+| a master's degree in accounting | manage financial records | in the accounting field |
+| --- | --- | --- |
+| accounting competencies | manage budgets | accounting programmes |
+| an extensive accounting background | accounting principles | in the accounting profession |
+| the accountant position | bottom line | attend courses |
+| apply skills to work | improve job skills | increase productivity |
+| come up with creative ideas | tackle problems creatively | unconventional measures |
+| use imagination | educational toy | achieve creative potential |
+| brain development | have a good grasp of advanced technology | foster innovation |
+| make profits | a deterrent effect | think twice |
+| curb crime | commit a crime | violate laws |
+| an escaping criminal | carry weapons | serve a prison term |
+| reduce poverty | surveillance cameras | escape punishment |
+| prevent crime | combat crime | break laws |
+| catch criminals | armed police | pay a fine |
+| work as a volunteer | vocational/job training | do some activities |
+| from an early age | start school | parenting styles |
+| impose sanctions on | stifle creativity | develop positive habits |
+| improve literacy | maintain discipline | behavioural problems |
+| impart a clear code of conduct | act as acceptable members of society | good manners |
+| grounding and detention | from less well-off backgrounds | children from poor homes |
+| from less well-off families | drop out of school | the equal access to education |
+| free-interest loans | the cost of learning | reduce poverty |
+| disadvantaged students | children from deprived backgrounds | exempted from tuition fees |
+| educational equality | study at university | financial support |
+| break the cycle of poverty | vocational/job training | bridge the gap between rich and poor |
+| close the economic divide | the education system | higher education |
+| the school system | receive a good education | set scholarships |
+| a well-educated workforce | public schools | student loans |
+| free access to knowledge | free education | broadband internet services |
+| alternative energy sources | renewable resources | energy consumption |
+| natural light | electric cars | car giants |
+| environmentally friendly materials | energy efficiency | clean energy |
+| energy conservation | generate electricity | sustainable materials |
+| hybrid cars | traditional fossil fuels | energy-saving technology |
+| environmental problems | environmental impacts | environmental issues |
+| environmental destruction | cause damage to the environment | drop litter |
+| awash with rubbish | destroy wetlands | clear forest |
+| damage the beautiful landscape | go green | environmental protection |
+| live a sustainable life | environmentally friendly | environmental benefits |
+| environmental impacts | launch massive campaigns | environmental awareness |
+| educate the public about | impose heavy fines | rubbish bins |
+| energy conservation | recycle waste | household waste/rubbish |
+| devote time | revise for exams | exam grades/exam results |
+| do homework | rote learning | extra-curricular activities |
+| combine work with pleasure | prepare for exams | exam factories |
+| workload increases | learn facts by heart | find enjoyment |
+| pursue a hobby | family life | spend quality time |
+| family ties | achieve a work-life balance | family commitments |
+| family dinners | family activities | feel lonely |
+| a sense of isolation | a loving family | a sense of loneliness |
+| emotional support | the film industry | go to the cinema |
+| special effects | the box office | top-grossing films |
+| big-budget films | star famous actors | talented filmmakers |
+| produce high-quality films | domestically produced films | locally produced films |
+| cook a meal | cooking skills | life skills |
+| prepare meals | fruits and vegetables | a healthy diet |
+| a balanced diet | fast food | fizzy drinks |
+| fresh ingredients | eat fatty food | fish and chips |
+| high in salt and sugar | combat obesity | increase yields |
+| grow crops | a good harvest | apply pesticides |
+| food prices | genetic engineering | resistant to pests |
+| use preservatives | grow faster | food production |
+| cultivate crops | chemical fertilisers | pest disease |
+| GM food | high-yield crops | intensive farming |
+| mechanised farming | food shortage | circle of friends |
+| build up a network of contacts | make good friends | form a good relationship |
+| develop a lifelong friendship | a lasting friendship |
+
+# Group 3
+
+| peer pressure | socialise with neighbours | gain financial support |
+| --- | --- | --- |
+| hang out with friends | close friends | business opportunities |
+| gender discrimination | gender bias | the equal access to education |
+| gender gap narrows | business leaders | discrimination on the grounds of sex |
+| gender equality | gender differences | managerial skills |
+| members of the board | shatter the glass ceiling | enter the workforce |
+| raise a family/start a family | close the gender gap | global warming |
+| greenhouse gases | trap heat from the sun | unusually warm conditions |
+| climate change | build up in the atmosphere | extreme weather conditions |
+| government intervention | launch awareness campaigns | make laws |
+| impose a tobacco tax on | stay healthy | government action |
+| introduce laws | tighten regulations on | curb smoking |
+| prevention is more important than the cure | public gardens | go for a jog |
+| reduce stress | flowering plants | do outdoor activities |
+| feel relaxed | keep fit | evergreen trees |
+| beautiful landscape | enjoy the scenery | take in the scenery |
+| stunning scenery | admire the scenery | achieve happiness |
+| find enjoyment | cover basic needs | a higher standard of living |
+| feel stressed out | family life | feel lonely |
+| earn money | enjoy a happy retirement | experience happiness |
+| find joy | improve living standards | live comfortably |
+| non-financial factors | social life | earn a decent income |
+| achieve career success | donate money | stay healthy |
+| endanger health | concentrate on work | improve physical health |
+| prone to health problem | achieve ambitions | economic value |
+| a sedentary lifestyle | harmful to health | suffer from heart diseases |
+| sick leave | see doctors | attain goals |
+| housing shortage | densely populated cities | make room for |
+| the housing market | urban planning | redevelop run-down urban areas |
+| residential buildings | state housing | pay a mortgage |
+| high-rise buildings | provincial towns | housing developers |
+| accommodate people | low-density neighbourhoods | land-scarce cities |
+| meet the growing demand for housing | demolish old buildings | web-based technology |
+| work from home | teleworking/telecommuting/work at home | shop online |
+| attend online courses | travel to work | travel a long distance to work |
+| save time | face-to-face communication | attend meetings |
+| avoid rush-hour traffic | watch videos online | in a formal setting |
+| social networking websites/social media | video chat programme | lose jobs |
+| the jobless rate | create jobs | make a living |
+| earn money | live comfortably | population ageing |
+| out of work | reduce unemployment | provide job opportunities |
+| earn salaries | feed family | economic recession/an economic crisis |
+| foreign brands | well-motivated employees | improve motivation |
+| live a comfortable life | pay rise | a good motivator |
+| a sense of progress | raise a family | a sense of belonging |
+| a good working environment | obtain job satisfaction | inspire loyalty |
+| the atmosphere in the workplace | flexible patterns of work | a steady career |
+| labour market | intense competition | find work |
+| steady income | cover living expenses | complete a degree |
+| sharpen skills/add to the skill set | working conditions | working relationship |
+| intensely competitive | improve job security | lose jobs |
+| increase earnings | undergo training | meet requirements |
+| read books | knowledge-based economy | increase knowledge |
+| achieve ambition | read articles online | acquire knowledge |
+| a vital source of knowledge | digital books | broaden minds |
+| broaden horizons | keep up to date with what is happening | keep well-informed about |
+| educational programmes | international language | less spoken language |
+| endangered language | a means of communication | preserve traditions |
+| protect languages | celebrate festivals | global language |
+| minority language | mother tongue | cultural identity |
+| preserve language diversity | cultural diversity | traditional food |
+| commit crimes | break the law | obey laws |
+| face any punishment | severe consequences | juvenile delinquency |
+| petty crimes | racial tensions | make fast money |
+| violate laws | comply with laws | a prison sentence |
+| youth crime | young offenders | serious crimes |
+| lead a hectic life | live an active life |
+
+# Group 4
+
+| exercise regularly | do sport | access to exercise equipment |
+| --- | --- | --- |
+| make way for modern buildings | live a healthy life | live an inactive life |
+| play sport | indoor activities | green space |
+| steady jobs | a well-paid job | live comfortably |
+| pay bills | lead a happy life | steady income |
+| cover living expenses | afford tuition fees | pay off the mortgage |
+| financial difficulties | material possessions | up-to-date equipment |
+| purchase the advanced model | the middle class | live in a materialistic world |
+| hi-tech products | status symbol | buy more than they need |
+| in a consumer culture | find contentment | out of touch with the world |
+| improve productivity | do repetitive tasks | reduce the workforce |
+| mechanised assembly lines | automate the process | computerise the service |
+| reduce the labour cost | improve self-esteem | behind the times |
+| improve efficiency | replace human labour | mechanise tasks |
+| mechanised farming | done by hand | industrial robots |
+| grow the economy | easier access to medical services | public hospitals |
+| clinical experience | contract an illness | a long waiting list |
+| improve our health | invent new drugs | medical equipment |
+| receive medical treatments | high medical expenses | medical research |
+| in the pharmacy industry | cure diseases | previously incurable diseases |
+| waste management | spread of diseases | infectious/contagious diseases |
+| healthy living | boost public health | traditional classrooms |
+| provide instruction | build confidence | develop a serious interest in |
+| improve life expectancy | study independently | on a one-on-one basis |
+| maintain enthusiasm for studies | keep students interested | stay self-motivated |
+| a negative attitude towards schooling | lack self-discipline | get distracted |
+| art museums | exhibit artefacts | a connection to the past |
+| enrich cultural lives | open to the public | free entry |
+| war museums | organise an exhibition | cultural heritage |
+| admission fees | free admission | folk songs |
+| rock music | hit songs | music lover |
+| integrate musical styles | pop songs | classical music |
+| pop stars | musical instruments | cultural differences |
+| differ from culture to culture | western countries | news reports |
+| news organisations | professional reports | broadcast news |
+| news outlets | news media | gather first-hand information |
+| a reliable source of information | increase ratings | sensationalise crimes |
+| mislead the public | political pressure | on the spot |
+| expand the readership | cover up political scandals | fake news |
+| in an opinionated way | conceal the truth | older people |
+| senior citizens | out of touch with the world | old-fashioned ideas |
+| the elderly | the older generation | resistant to change |
+| fit into the modern world | adopt advanced technology | life experience |
+| make a rash decision | out of touch with the world | hold back social progress |
+| read news online | check online news | sensible advice |
+| take risks | risk averse | a source of income |
+| a financial burden on | read news stories | have free time |
+| keep up to date with what is happening | watch videos online | have faster access to news in real time |
+| the live coverage of | TV news | the delivery of visual information |
+| news programmes | run an online business | online shops |
+| an online auction website | the cost of operation | place an order |
+| offer a replacement | in the comfort of my home | fake products |
+| shoddy goods | consumer rights | a code of practice |
+| a business owner | e-commerce websites | retail outlets |
+| answer enquiries | make a payment | grow business |
+| fit into my schedule | faulty goods | genuine brands |
+| buying decisions | throw a party | go to a party |
+| office party | birthday party | birthday present |
+| refreshing drinks | serve drinks | farewell party |
+| host a party | attend parties | dinner party |
+| birthday cake | blow out candles | housewarming party |
+| karaoke party | take photos | take a selfie |
+| portable device | take pictures | a photo album |
+| capture special moments | relive experiences | upload photos |
+| digital cameras | brighten colours | social networking websites |
+| edit images | make slow motion movies | do practical work |
+| prepare for working lives | work placements |
+
+# Group 5
+
+| well-suited to a job | do part-time work | graduate from university |
+| --- | --- | --- |
+| leave school | hands-on experience | practical experience |
+| pursue a career | improve practical skills | adapt to the workplace |
+| finish high school | take a gap year | the education system |
+| higher education | receive training | a sense of responsibility |
+| the school system | receive a university education | moral principles |
+| instill virtues into | productive members of society | build character |
+| develop qualities | show determination to win | in difficult situations |
+| show perseverance | disadvantaged students | exempted from tuition fees |
+| educational equality | free-interest loans | break the cycle of poverty |
+| close the economic divide | set scholarships | free education |
+| children from poor homes | drop out of school | study at university |
+| financial support | bridge the gap between rich and poor | public schools |
+| student loans | free access to knowledge | broadband internet services |
+| break the cycle of poverty | afford tuition fees | reduce poverty |
+| needy people | charitable organisations | people with disabilities |
+| afford basic necessities | maintain a basic standard of living | die needlessly |
+| suffer from poor health | receive vocational training | improve job skills |
+| close the gap between haves and have-nots | racial discrimination | obey rules |
+| break/violate rules | ground rules | break school rules |
+| adhere to cultural norms | develop positive habits | comply with rules |
+| establish/set rules | follow golden rules | violate norms |
+| show good behaviour | company regulations | give a helping hand |
+| show compassion | behave selfishly | with a heart of gold |
+| responsive to emotional needs | driven by self-interest | motivated by greed |
+| cheat in exams | gain an unfair advantage over | make easy money |
+| teach moral values | a strong appetite | traditional values |
+| consumer goods | household appliances | online stores |
+| in the comfort of their homes | shopping malls | buy...on impulse |
+| consumer society | pay by credit card | a growing demand |
+| electrical equipment | shop online | online retailers |
+| on high streets | shopping streets | steep discounts |
+| consumer culture | educational games | set rules |
+| good listening skills | communication skills | leadership skills |
+| life skills | young players | outdoor games |
+| express ideas | improve soft skills | interpersonal skills |
+| physical skills | basic skills | keep fit |
+| social activity | make new friends | eat out |
+| talking points | watch soccer games | lead a healthy life |
+| gather together | go out for a meal | have a coffee |
+| sports fans | live events | do social activities |
+| mix with others | cultural activities | social life |
+| socialise with neighbours | release stress | forget about work |
+| join the choir | visit art galleries | cut stress |
+| tasks at hand | reduce anxiety | a pleasurable experience |
+| join a band | conform to social norms | show good manners |
+| complete work on time | handle enquiries politely | good work ethic |
+| a sense of responsibility | follow social rules | show respect to others |
+| arrive punctually | late for work | build good working relationships |
+| space missions | space science | space exploration |
+| advance knowledge | habitable planets | provide shelter for |
+| used commercially | in the hostile environment | travel in outer space |
+| population explosion | sustain our civilisation | protective clothes |
+| on the ground | an immediate payoff | play sport |
+| moderate intensity activities | go for a jog | go for a swim |
+| increase blood circulation | keep a good body shape | lead an inactive life |
+| extreme sports | gentle physical exercise | mild exercise |
+| take a brisk walk | burn calories | build strength |
+| improve health | suffer injuries | professional trainers |
+| economic pressure | combine work and family commitments | work commitments |
+| find time | reduce stress | a source of stress |
+| feel relaxed | material goods | time management skills |
+| financial difficulties | a tight schedule | put a severe strain on |
+| cope with stress | feel stressed | cost of living |
+| avoid procrastination | go overseas | study abroad |
+| in a globalised world | from diverse backgrounds | pick up a foreign language |
+| master another language | fluent in the first language |
+
+# Group 6
+
+| immerse themselves in a foreign language | language skills | prestigious universities |
+| --- | --- | --- |
+| multinational enterprises | expand horizons | have a broader view of life |
+| experience the world | specialise in a subject | career prospects |
+| career opportunities | bright students | a natural talent in |
+| do calculations | study a subject | well-paid jobs |
+| develop a talent | academically gifted | mathematical talents |
+| build expertise | put...in an advantageous position | tedious job |
+| teach courses | teach subjects | the school system/the education system |
+| receive a well-rounded education | start school | core subjects |
+| enter university | engage children | attend school |
+| learning outcomes | the school curriculum | attend university |
+| lively and stimulating | class activities | curriculum content |
+| work collaboratively | work as a team | team assignments |
+| raising money for charity | save/shorten time | complete a project |
+| uncover benefits | work closely with | team projects |
+| team sport | collaborative teamwork | divide the effort |
+| embark on another team project | make decisions as a group | technological advances |
+| state-funded scientific research | scientific institutions | technological innovations |
+| advanced technology | state-of-the-art technology | technological breakthroughs |
+| improve the environment | medical advances | technological change |
+| new technology | cutting-edge technology | the hi-tech industry |
+| reduce diseases | fight hunger | space technology |
+| telecommunications technology | mobile devices | instant messaging |
+| on the phone | fax machines | the access to Internet services |
+| maintain a lifelong relationship | stay in touch with | use a mobile phone |
+| text messaging | via email | on the computer |
+| online services | travel by air | forge a strong relationship |
+| work from home | work at home | paperless office |
+| travel to and from work | stay self-motivated | enter the workforce |
+| flexible working hours | sacrifice family life | show discipline |
+| show initiative | combine work and raising a family | work commitments |
+| create revenues | tourist attractions | the tourist sector |
+| attract tourists | tourist destinations | go sightseeing |
+| a driver of economic growth | an important part of the economy | a source of income |
+| create jobs | create employment/generate employment | charge admission fees |
+| reduce traffic congestion | rush-hour traffic | within walking distance |
+| driving license | car ownership | congestion tax |
+| creative industry | cope with traffic jams | cycle to work |
+| driving test | curb private car use | fuel tax |
+| broaden roads | build new roads | use public transport |
+| car pooling | drive cars | travel by air |
+| private car use | ways to get around | get to and from work |
+| travel a long distance | travel to the central office | raise standards |
+| pedestrianise streets | reduce car emissions | travel by car |
+| travel by tube | means/modes of travel | use public transport |
+| daily commuters | suburban commuters | plant trees |
+| tree-lined avenues | a view of nature | provide the shade |
+| absorb dust | plant life | cut down trees |
+| lined with trees | feel close to nature | provide shelter |
+| evergreen trees | flower garden | offer employment possibilities |
+| complete degree courses | an investment of time and money | take subject courses |
+| fill knowledge gap | pursue a career | academic courses |
+| preferred areas of study | passionate about | develop talents |
+| financial circumstances | vocational courses | areas of knowledge |
+| match interests | study with enthusiasm | career success |
+| employment opportunities | relocate to cities | keep pace with the demand |
+| afford home ownership | reduce the quality of life | a growing population |
+| population expansion | put pressure on | public transport service |
+| transport costs | population is mobile | valuable services/ essential services |
+| consumer goods | consumer products | contaminate the environment |
+| industrial waste | drop litter | incinerate waste |
+| enter the food chain | household goods | end up in landfill sites |
+| household waste | household rubbish | dump waste |
+| dispose of waste | hazardous waste | fresh water |
+| tap water | a threat to public health | water pollution |
+| contaminate water | heavily polluted | a clean water supply |
+| bottled water | soil erosion |
+
+# Group 7
+
+| untreated sewage | underground water | boil water |
+| --- | --- | --- |
+| poor sanitation | water consumption | efficiency in water use |
+| human activities | destroy the forest | oil drilling |
+| biodiversity loss | the loss of biodiversity | endangered species |
+| poor farming practices | mine coal | animal die out |
+| intensive farming | improve biodiversity | rare animals |
+| cause damage to the environment | toxic chemicals | habitat destruction |
+| on the verge of extinction | face a high risk of extinction | male-dominated industries |
+| clerical work | juggle different roles | balance work and family commitments |
+| domestic responsibilities | child-rearing duties | high-paying industries |
+| a fulfilling career | maternity leave | career choices |
+| domestic work | raise children | advance one's career |
+| career success | physically demanding jobs/manual work | work unsocial hours |
+| work long hours | lack of sleep | suffer from insomnia |
+| physical activity | health problems | work overtime |
+| high-stress jobs | sleep deprivation | do exercise |
+| in poor health | animal in captivity | lose freedom |
+| natural behaviour | fierce animals | in the wild |
+| locked in cages | freedom is restricted | hunting instincts |
+| reintroduce species | human-caused disturbances | manmade environment |
+| illegal hunting | animal testing | raise pets |
+| artificial environment | exhibit animals | kill animals for meat |
